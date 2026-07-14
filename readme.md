@@ -43,6 +43,6 @@ Lastly, you may either enter 'exit' or 'quit' to close the session.
 |---|---|---|---|---|---|
 | cat-facts.txt | 1 | 3 | The Jacobson's organ (vomeronasal organ), located in the upper surface of the mouth, allows cats to smell beyond their nose. | Yes | — |
 | cat-facts.txt | 2 | 3 | Since cats sleep 2/3 of the day, a nine-year-old cat has been awake for approximately 3 years. | Yes | — |
-| cat-db-fiction-confusing.txt | 3 | 3 | The Northside Luna needs rabbit-based food because her record lists a chicken allergy. | Yes | — |
+| cat-db-fiction-confusing.txt | 3 | 3 | The Northside Luna needs rabbit-based food because her record lists a chicken allergy. | No | The answer is not wrong, its just incomplete, as the color is missing. This can be changed by the prompt, to specify to adress multi-part question.|
 | cat-db-fiction-confusing.txt | 4 | 3 | Juniper cannot attend the 2026-05-02 event; the answer cites a vet note requiring 7 days rest as the reason, though it also mixes in irrelevant reasoning about Juniper's sister Jupiter. | Yes | Conclusion is correct and supported by the dated vet note overriding the original schedule, but explanation could be tightened by only reasoning about records for the same named individual. |
 
